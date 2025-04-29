@@ -1,5 +1,4 @@
 package simpledatabase;
-
 import java.sql.*;
 
 public class Simpledatabase {
@@ -20,6 +19,8 @@ public class Simpledatabase {
         //closeConnection();
     }
 
+    
+    
     
     //METHOD 1 CONNECT TO DB
     public static void connect() {
